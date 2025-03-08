@@ -1,16 +1,18 @@
-## Hi there 👋
+# aghayemoghaddam
 
-<!--
-**AghayeMoghaddam/aghayemoghaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Python & Web Development Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm a software developer with a strong interest in Python and web development. I enjoy building practical applications and exploring new technologies. I'm passionate about clean code and continuous learning. I am currently focused on improving my React and Django skills.
+
+## Key Skills
+
+* Python
+* JavaScript
+* HTML/CSS
+* React
+* Flask
+* Django
+* PostgreSQL
+* Git
